@@ -1,0 +1,10 @@
+0.223
+--------
+A	B	C	D	E
+--------
+BCABCDAED
+-CA---EEB
+BCAA-DEAD
+D-AA-D-BD
+BDB-CDEEC
+BCAAC-EAE
